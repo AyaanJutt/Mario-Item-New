@@ -1,0 +1,14 @@
+html{
+    background-color:wheat;
+}
+body{
+    text-align:center;
+    margin:0 auto;
+    background-color:whitesmoke;
+    width:700px;
+    padding:50px 100px;
+}
+#item img{
+    width: 40px;
+    height: 40px;
+}
